@@ -1,0 +1,16 @@
+# Convertiseur_Tel_En_Cam — Dépendances Python
+# Installation : pip install -r requirements.txt
+
+# Vision par ordinateur et traitement d'image
+opencv-python>=4.8.0
+numpy>=1.24.0
+imutils>=0.5.4
+
+# Interface graphique (inclus dans la bibliothèque standard)
+# tkinter est fourni avec Python sur la plupart des distributions.
+
+# Alertes réseau optionnelles (webhook, Telegram)
+requests>=2.31.0
+
+# Utilitaires réseau et système
+# (pas de dépendance externe requise)
