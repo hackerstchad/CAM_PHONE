@@ -1,5 +1,8 @@
 # Convertiseur_Tel_En_Cam
 
+<img width="1248" height="832" alt="OIG1" src="https://github.com/user-attachments/assets/fe4f42a4-fd8a-4276-9ce9-058785659b5e" />
+
+
 **Convertissez votre téléphone en caméra de surveillance et visualisez le flux en direct sur votre PC, dans le même réseau local.**
 
 [![Python](https://img.shields.io/badge/python-3.9+-green.svg)](https://www.python.org/)
@@ -132,7 +135,7 @@ http://192.168.1.10:8090/
 
 Ce projet est sous licence **MIT**.
 
-Auteur : **CodePal**
+Auteur : **HACKERS_TCHAD**
 
 ---
 
